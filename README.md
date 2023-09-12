@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **Solidity** and **Security Researching**
 - 👯 I’m looking to collaborate on **Web3** and **EVM** projects
 - 🤔 I’m looking for help with **Web3** and **EVM** projects
-- 💬 Ask me about **Solidity**
+- 💬 Ask me about **Solidity**, **Org-mode** and **Emacs**
 - 📫 How to reach me: [Twitter](https://twitter.com/gabr1sr) or [e-mail](mailto:gabr1sr@proton.me)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Death Metal listener 🤟
