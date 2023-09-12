@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on **Web3** and **EVM** projects
+- 🌱 I’m currently learning **Solidity** and **Security Researching**
+- 👯 I’m looking to collaborate on **Web3** and **EVM** projects
+- 🤔 I’m looking for help with **Web3** and **EVM** projects
+- 💬 Ask me about **Solidity**
+- 📫 How to reach me: [Twitter](https://twitter.com/gabr1sr) or [e-mail](mailto:gabr1sr@proton.me)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Death Metal listener 🤟
 <!--
 **gabr1sr/gabr1sr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
