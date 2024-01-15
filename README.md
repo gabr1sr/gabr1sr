@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on **Web3** and **EVM** projects
-- 🌱 I’m currently learning **Solidity** and **Security Researching**
+- 🌱 I’m currently learning **Rust**, **Solidity** and **Security Research**
 - 👯 I’m looking to collaborate on **Web3** and **EVM** projects
 - 🤔 I’m looking for help with **Web3** and **EVM** projects
 - 💬 Ask me about **Solidity**, **Org-mode** and **Emacs**
