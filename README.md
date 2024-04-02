@@ -7,6 +7,7 @@
   </p>
   <pre>
     Rust ・ Solidity ・ JavaScript ・ TypeScript
+    Programming ・ Cybersecurity ・ Quality
     Sway ・ Emacs ・ Nix ・ Linux
     Portuguese ・ English
     PostgreSQL</pre>
