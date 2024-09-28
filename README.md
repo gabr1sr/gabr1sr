@@ -3,11 +3,10 @@
 </h3>
 <div align="center">
   <p>
-    I'm a software engineer turning into a security researcher.
+    I'm a smart contract developer and software engineer.
   </p>
   <pre>
     Rust ・ Solidity ・ JavaScript ・ TypeScript
-    Programming ・ Cybersecurity ・ Quality
     Sway ・ Emacs ・ Nix ・ Linux
     Portuguese ・ English
     PostgreSQL</pre>
